@@ -1,0 +1,11 @@
+# Ignore virtual environment folder
+venv/
+
+# Ignore OpenAI key file
+open_ai_key.txt
+
+# Compiled Python files
+*.pyc
+
+# Mac DS_Stone file
+.DS_Store
